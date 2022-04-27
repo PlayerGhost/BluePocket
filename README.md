@@ -1,2 +1,2 @@
 # BluePocket
-A mobile app for managing income and expenses
+A Mobile app for managing income and expenses
